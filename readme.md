@@ -13,7 +13,6 @@ Previously, I built stuff (engineering fellow, investor) at [Quest Ventures](htt
 📜 Past Projects:
 - [Lyro](http://trylyro.com): Organize your life with your AI-powered personal Chief of Staff
 - [Tech News GPT](https://github.com/mjwgoh/tech-news-gpt): Scrape the web and use GPT-3 + LangChain to automatically parse and generate new articles.
-- [Blue](https://github.com/mjwgoh/Blue): An iOS app aimed at enhancing the quality of life for individuals living with dementia
 - [Down to Lunch](https://github.com/mjwgoh/Down-to-Lunch): Feeling lonely in a new city? Swipe right to lunch
 - [Expensive Messages](https://github.com/mjwgoh/Expensive-Messages): Send ridiculously overpriced messages to your partner on Valentines Day
 
