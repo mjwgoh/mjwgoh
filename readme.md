@@ -7,7 +7,7 @@ Previously, I built stuff (engineering fellow, investor) at [Quest Ventures](htt
 🌱 Active Projects
 - [IHouse Events Management Portal](https://ihouse-frontend.vercel.app/): Creating a single source of truth for [IHouse](https://ihouse.uchicago.edu)
 - IHouse Backend API Server: To support IHouse's suite of event management and staffing apps
-- [Sector](http://trysector.com): Building a super cool RAG project (stealth)
+- [Sector](http://trysector.com): Building a super cool RAG project (semi-stealth)
 - Genesys Works Internship Matching Algorithm: Identifying optimal internship matches for underprivileged students
 
 📜 Past Projects:
