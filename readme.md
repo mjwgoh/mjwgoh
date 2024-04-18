@@ -7,8 +7,7 @@ Previously, I built stuff (engineering fellow, investor) at [Quest Ventures](htt
 🌱 Active Projects
 - [IHouse Events Management Portal](https://ihouse-frontend.vercel.app/): Creating a single source of truth for [IHouse](https://ihouse.uchicago.edu)
 - IHouse Backend API Server: To support IHouse's suite of event management and staffing apps
-- [Sector](http://trysector.com): Chat with your Personalized AI
-- Genesys Works Internship Matching Algorithm: Identifying optimal internship matches for underprivileged students
+- [Veda](https://www.heyveda.com): Integrate your emails, calendars, and messages with your AI. Just ask away, no context required.
 
 📜 Past Projects:
 - [Lyro](http://trylyro.com): Organize your life with your AI-powered personal Chief of Staff
