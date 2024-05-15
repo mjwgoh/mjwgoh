@@ -1,6 +1,6 @@
 ### 👋 Heya, I'm Mike
 
-Currently, I'm an MS CS Candidate at UChicago and a Research Assistant for [Prof Oleg Urminsky](https://www.chicagobooth.edu/faculty/directory/u/oleg-urminsky), where I'm training our future overlords (finetuning a LM for sentiment analysis) and learning why people click on stuff (investigating the impact of negative and moralized language on clickthrough rates). 
+Currently, I'm an MS CS Candidate at UChicago and a Software Engineer at UChicago. 
 
 Previously, I was a Software Engineer Intern at [IHouse Chicago](https://ihouse.uchicago.edu), where I'm helping rid them of Excel-hell (develop an events management portal). I also built stuff (engineering fellow, investor) at [Quest Ventures](https://www.questventures.com), was a slide monkey (management consultant) at [Bain & Co](http://bain.com), and drew lines to connect many points (business intelligence, machine learning) at [StashAway](http://stashaway.com).
 
