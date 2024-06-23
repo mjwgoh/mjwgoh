@@ -13,5 +13,6 @@ Previously, I built stuff (engineering fellow, investor) at [Quest Ventures](htt
 - [IHouse Backend API Microservice](https://github.com/mjwgoh/ihouse-backend-sanitized): To support IHouse's suite of event management and staffing apps
 - [Tech News GPT](https://github.com/mjwgoh/tech-news-gpt): Scrape the web and use GPT-3 + LangChain to automatically parse and generate new articles.
 - [Down to Lunch](https://github.com/mjwgoh/Down-to-Lunch): Feeling lonely in a new city? Swipe right to lunch
+- [n-Body Simulation](https://github.com/mjwgoh/n-Body-Simulation): A parallel n-body simulation implemented in Go utilizing the Barnes-Hut algorithm
 
 📥 Wanna connect? Drop me a DM at [@mjwgoh](https://twitter.com/mjwgoh).
